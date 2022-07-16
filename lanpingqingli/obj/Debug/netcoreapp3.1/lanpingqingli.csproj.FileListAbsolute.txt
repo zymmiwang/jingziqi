@@ -1,0 +1,16 @@
+D:\C#井字棋\lanpingqingli\bin\Debug\netcoreapp3.1\lanpingqingli.exe
+D:\C#井字棋\lanpingqingli\bin\Debug\netcoreapp3.1\lanpingqingli.deps.json
+D:\C#井字棋\lanpingqingli\bin\Debug\netcoreapp3.1\lanpingqingli.runtimeconfig.json
+D:\C#井字棋\lanpingqingli\bin\Debug\netcoreapp3.1\lanpingqingli.runtimeconfig.dev.json
+D:\C#井字棋\lanpingqingli\bin\Debug\netcoreapp3.1\lanpingqingli.dll
+D:\C#井字棋\lanpingqingli\bin\Debug\netcoreapp3.1\lanpingqingli.pdb
+D:\C#井字棋\lanpingqingli\bin\Debug\netcoreapp3.1\cmd.dll
+D:\C#井字棋\lanpingqingli\bin\Debug\netcoreapp3.1\cmd.pdb
+D:\C#井字棋\lanpingqingli\obj\Debug\netcoreapp3.1\lanpingqingli.csprojAssemblyReference.cache
+D:\C#井字棋\lanpingqingli\obj\Debug\netcoreapp3.1\lanpingqingli.AssemblyInfoInputs.cache
+D:\C#井字棋\lanpingqingli\obj\Debug\netcoreapp3.1\lanpingqingli.AssemblyInfo.cs
+D:\C#井字棋\lanpingqingli\obj\Debug\netcoreapp3.1\lanpingqingli.csproj.CoreCompileInputs.cache
+D:\C#井字棋\lanpingqingli\obj\Debug\netcoreapp3.1\lanpingqingli.csproj.CopyComplete
+D:\C#井字棋\lanpingqingli\obj\Debug\netcoreapp3.1\lanpingqingli.dll
+D:\C#井字棋\lanpingqingli\obj\Debug\netcoreapp3.1\lanpingqingli.pdb
+D:\C#井字棋\lanpingqingli\obj\Debug\netcoreapp3.1\lanpingqingli.genruntimeconfig.cache

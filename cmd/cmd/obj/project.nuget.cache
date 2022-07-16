@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "XdBWvF2/b+5QqDt8Ug7tgtf87cq4d4fnwlMZtE+d639QN6sF3Fkw12hF/i5L1C/ip+90Ac5REPqcKOSBbCPNbw==",
+  "success": true,
+  "projectFilePath": "H:\\C#井字棋\\cmd\\cmd\\cmd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zym79\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\zym79\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
