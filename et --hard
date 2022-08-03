@@ -1,0 +1,49 @@
+[33mcommit 32bc191e93ab5d3bb17ccdb16033df4b54a283e2[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: zymmiwang <zym790872137@163.com>
+Date:   Sat Jul 16 13:01:29 2022 +0800
+
+    Revert "Create .gitattributes"
+    
+    This reverts commit 9a028e6ca0771383c9027de86c14a1060690ccf0.
+
+[33mcommit 11b6929ef16dc912c235af13eb20950ed8c046d1[m
+Author: zymmiwang <zym790872137@163.com>
+Date:   Sat Jul 16 13:00:52 2022 +0800
+
+    Revert "setup"
+    
+    This reverts commit 81e15fe9753065a2e14dd11977889dc03fdc9b48.
+
+[33mcommit 9a028e6ca0771383c9027de86c14a1060690ccf0[m
+Author: zymmiwang <zym790872137@163.com>
+Date:   Sat Jul 16 12:57:24 2022 +0800
+
+    Create .gitattributes
+
+[33mcommit 81e15fe9753065a2e14dd11977889dc03fdc9b48[m
+Author: zymmiwang <zym790872137@163.com>
+Date:   Sat Jul 16 12:46:26 2022 +0800
+
+    setup
+
+[33mcommit 9a7fc35e60a2959ebe26c4059b5d74cb2b4d83ac[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: zymmiwang <zym790872137@163.com>
+Date:   Sat Jul 16 12:34:36 2022 +0800
+
+    2
+    
+    2
+
+[33mcommit 16b78083a6af2d22d584aabf7c52e68d2193bc14[m
+Author: zymmiwang <zym790872137@163.com>
+Date:   Sat Jul 16 11:53:46 2022 +0800
+
+    1
+    
+    1
+
+[33mcommit b93fea56f87dea1ad8b052d71556a021420e069a[m
+Author: zymmiwang <101502396+zymmiwang@users.noreply.github.com>
+Date:   Fri Jul 15 11:31:23 2022 +0800
+
+    Initial commit
