@@ -1,5 +1,5 @@
 # jingziqi
-jingziqi，但又不仅仅是井字棋，更像是一个工具集，为纪念grx而作。
+jingziqi，但又不仅仅是井字棋，更像是一个工具集，为纪念grx(q)而作。
 
 
 jingziqi，该程序系作者初中备战NOIP时无聊所作，后来无聊时改为.net写gui，并用它来学习C#。周末戳两行代码，逐渐成了如今依旧简陋的jingziqi小程序。
