@@ -25,3 +25,4 @@ H:\C#井字棋\upadte\upadte\obj\Debug\upadte.csproj.CoreCompileInputs.cache
 H:\C#井字棋\upadte\upadte\obj\Debug\upadte.csproj.CopyComplete
 H:\C#井字棋\upadte\upadte\obj\Debug\update.exe
 H:\C#井字棋\upadte\upadte\obj\Debug\update.pdb
+H:\C#井字棋\upadte\upadte\bin\Debug\Downloader.dll

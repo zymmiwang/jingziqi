@@ -40,6 +40,11 @@ namespace jingziqi
 
 
             }
+
+            System.Diagnostics.Process.Start("update.exe");
+
+            
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());

@@ -1,1 +1,3 @@
-﻿欢迎使用 jingziqi v0.6.6 ，作者迷惘，感谢大家使用！
+﻿欢迎使用 jingziqi v0.6.7 ，作者zymmiwang，感谢大家使用！
+
+另，github地址：https://github.com/zymmiwang/jingziqi 若能点星，不胜感激！
